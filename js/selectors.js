@@ -17,7 +17,8 @@ function divSelector() {
 }
 
 function firstListItem() {
-  
+  //$('parent-tag child-tag:first-child')
+  //
 }
 
 
