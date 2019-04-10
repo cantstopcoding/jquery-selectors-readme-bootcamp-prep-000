@@ -20,7 +20,7 @@ function firstListItem() {
   //$('parent-tag child-tag:first-child')
   //$('div img:first-child')
   
-  return $('ul #pic-list:first-child');
+  return $('ul#pic-list:first-child');
 }
 
 
